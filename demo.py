@@ -11,3 +11,5 @@ def func(n):
 result = func(20)
 if result != -1:
     print(result)
+
+# 最后结果为6765
